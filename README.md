@@ -6,6 +6,6 @@
 
 <a href="https://ru.freepik.com/photos/night-sky"><img src="images/the-beautiful-shining-stars-in-the-night-sky.jpg" height=160 width=1000/></a>
 
-![](https://komarev.com/ghpvc/?username=4dand)
+### (Page in development...)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4dand)](https://github.com/4dand/github-readme-stats)
