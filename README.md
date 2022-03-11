@@ -6,8 +6,13 @@
 
 <h3>About Me✨</h3>
 
-🔥 I'm a Python Backend Web Developer, as well as a specialist in creating scripts of any functionality and complexity and have been working in this area for 3 years.
+🔥 IT-specialist from Russia🇷🇺. I'm a Python Backend Web Developer, as well as a specialist in creating scripts of any functionality and complexity and have been working in this area for 3 years.
 
 💼 I'm a freelancer and I love my job.  My journey began in October 2021 year and I continue to move towards my goal. At the moment I have already a series of successfully launched commercial projects. I am not ashamed to admit that I am a novice developer, and even proud of it. After all, as one famous Turkish proverb says: "Not to know is not ashamed, ashamed not to ask"
+
+👨‍💻 I really like to coding. I wanna to improve in this direction. I am always open to something new and amazing, I am ready to take on any interesting project if I have the opportunity
+
+<h3>My skills⚡️</h3>
+
 
 ### (Page in development...)
