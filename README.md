@@ -26,8 +26,8 @@ IT-specialist from Russia 🇷🇺
 </p>
 
 **Bots and Scripts Direction**
-+ Telegram: <img src='https://img.shields.io/badge/Pyrogram-informational?style=flat&logoColor=white&color=9146FF'/>
-<img src='https://img.shields.io/badge/Telethon-informational?style=flat&logoColor=white&color=9146FF'/>
++ Telegram API: <img src='https://img.shields.io/badge/Pyrogram-informational?style=flat&logoColor=white&color=FF0000'/> <img src='https://img.shields.io/badge/Telethon-informational?style=flat&logoColor=white&color=239120'/> <img src='https://img.shields.io/badge/Aiogram-informational?style=flat&logoColor=white&color=F7DF1E'/> <img src='https://img.shields.io/badge/Telebot-informational?style=flat&logoColor=white&color=CC6699'/>
++ GUI and CLI: <img src='https://img.shields.io/badge/PyQt5-informational?style=flat&logoColor=white&color=FA7343'/> <img src='https://img.shields.io/badge/Rich-informational?style=flat&logoColor=white&color=DC322F'/> <img src='https://img.shields.io/badge/PySimpleGUI-informational?style=flat&logoColor=white&color=2C2D72'/>
 
 
 ### (Page in development...)
