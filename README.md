@@ -30,7 +30,7 @@ IT-specialist from Russia 🇷🇺
 + GUI and CLI: <img src='https://img.shields.io/badge/PyQt5-informational?style=flat&logoColor=white&color=FA7343'/> <img src='https://img.shields.io/badge/Rich-informational?style=flat&logoColor=white&color=DC322F'/> <img src='https://img.shields.io/badge/PySimpleGUI-informational?style=flat&logoColor=white&color=2C2D72'/>
 + Data scraping: <img src='https://img.shields.io/badge/Bs4-informational?style=flat&logoColor=white&color=F6C915'/> <img src='https://img.shields.io/badge/Selenium-informational?style=flat&logoColor=white&color=0000CC'/> <img src='https://img.shields.io/badge/Scrapy-informational?style=flat&logoColor=white&color=1ED760'/>
 + Code models: <img src='https://img.shields.io/badge/Asyncio-informational?style=flat&logoColor=white&color=FEAA2D'/> <img src='https://img.shields.io/badge/Multiprocessing-informational?style=flat&logoColor=white&color=217346'/>
-+ Other API: 
++ Other API: <img src='https://img.shields.io/badge/Instagram-informational?style=flat&logoColor=white&color=404D59'/> <img src='https://img.shields.io/badge/HH.ru-informational?style=flat&logoColor=white&color=39457E'/> <img src='https://img.shields.io/badge/Discord-informational?style=flat&logoColor=white&color=276DC3'/> <img src='https://img.shields.io/badge/Whatsapp-informational?style=flat&logoColor=white&color=232F3E'/>
 
 **Other technologies**
 <p align="center">
