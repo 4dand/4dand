@@ -6,13 +6,28 @@
 
 <h3>About Me✨</h3>
 
-🔥 IT-specialist from Russia🇷🇺. I'm a Python Backend Web Developer, as well as a specialist in creating scripts of any functionality and complexity and have been working in this area for 3 years.
+🔥 I'm a Python Backend Web Developer, as well as a specialist in creating scripts of any functionality and complexity and have been working in this area for 3 years.
+IT-specialist from Russia 🇷🇺
 
-💼 I'm a freelancer and I love my job.  My journey began in October 2021 year and I continue to move towards my goal. At the moment I have already a series of successfully launched commercial projects. I am not ashamed to admit that I am a novice developer, and even proud of it. After all, as one famous Turkish proverb says: "Not to know is not ashamed, ashamed not to ask"
+💼 I'm a freelancer in the local and global markets and I love my job.  My journey began in October 2021 year and I continue to move towards my goal. At the moment I have already a series of successfully launched commercial projects. I am not ashamed to admit that I am a novice developer, and even proud of it. After all, as one famous Turkish proverb says: "*Not to know is not ashamed, ashamed not to ask*"
 
-👨‍💻 I really like to coding. I wanna to improve in this direction. I am always open to something new and amazing, I am ready to take on any interesting project if I have the opportunity
+👨‍💻 I really like to coding. I wanna to improve in this direction. I am always open to something new and amazing, I am ready to take on any interesting project if I have the opportunity.
 
 <h3>My skills⚡️</h3>
+
+<h5>The main stack of my activity</h5>
+
+**Backend-Direction**
+<p align="center">
+  <img src='https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=9146FF'/>
+  <img src='https://img.shields.io/badge/Django-informational?style=flat&logo=Django&logoColor=white&color=F59812'/>
+  <img src='https://img.shields.io/badge/Flask-informational?style=flat&logo=Flask&logoColor=white&color=E95420'/>
+  <img src='https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=1793D1'/>
+</p>
+
+**Bots and Scripts Direction**
++ Telegram: <img src='https://img.shields.io/badge/Pyrogram-informational?style=flat&logoColor=white&color=9146FF'/>
+<img src='https://img.shields.io/badge/Telethon-informational?style=flat&logoColor=white&color=9146FF'/>
 
 
 ### (Page in development...)
