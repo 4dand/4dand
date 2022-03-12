@@ -13,11 +13,11 @@ IT-specialist from Russia 🇷🇺
 
 👨‍💻 I really like to coding. I wanna to improve in this direction. I am always open to something new and amazing, I am ready to take on any interesting project if I have the opportunity.
 
-<h3>My skills⚡️</h3>
+<h3>My skills⚡️ (Hard Skills)</h3>
 
 <h5>The main stack of my activity</h5>
 
-**Backend-Direction**
+**Backend Direction**
 <p align="center">
   <img src='https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=9146FF'/>
   <img src='https://img.shields.io/badge/Django-informational?style=flat&logo=Django&logoColor=white&color=F59812'/>
@@ -26,8 +26,17 @@ IT-specialist from Russia 🇷🇺
 </p>
 
 **Bots and Scripts Direction**
-+ Telegram API: <img src='https://img.shields.io/badge/Pyrogram-informational?style=flat&logoColor=white&color=FF0000'/> <img src='https://img.shields.io/badge/Telethon-informational?style=flat&logoColor=white&color=239120'/> <img src='https://img.shields.io/badge/Aiogram-informational?style=flat&logoColor=white&color=F7DF1E'/> <img src='https://img.shields.io/badge/Telebot-informational?style=flat&logoColor=white&color=CC6699'/>
++ Telegram API: <img src='https://img.shields.io/badge/Pyrogram-informational?style=flat&logoColor=white&color=00C7B7'/> <img src='https://img.shields.io/badge/Telethon-informational?style=flat&logoColor=white&color=239120'/> <img src='https://img.shields.io/badge/Aiogram-informational?style=flat&logoColor=white&color=F7DF1E'/> <img src='https://img.shields.io/badge/Telebot-informational?style=flat&logoColor=white&color=CC6699'/>
 + GUI and CLI: <img src='https://img.shields.io/badge/PyQt5-informational?style=flat&logoColor=white&color=FA7343'/> <img src='https://img.shields.io/badge/Rich-informational?style=flat&logoColor=white&color=DC322F'/> <img src='https://img.shields.io/badge/PySimpleGUI-informational?style=flat&logoColor=white&color=2C2D72'/>
++ Data scraping: <img src='https://img.shields.io/badge/Bs4-informational?style=flat&logoColor=white&color=F6C915'/> <img src='https://img.shields.io/badge/Selenium-informational?style=flat&logoColor=white&color=0000CC'/> <img src='https://img.shields.io/badge/Scrapy-informational?style=flat&logoColor=white&color=1ED760'/>
++ Code models: <img src='https://img.shields.io/badge/Asyncio-informational?style=flat&logoColor=white&color=FEAA2D'/> <img src='https://img.shields.io/badge/Multiprocessing-informational?style=flat&logoColor=white&color=217346'/>
++ Other API: 
 
+**Other technologies**
+<p align="center">
+  <img src='https://img.shields.io/badge/Docker-informational?style=flat&logo=Docker&logoColor=white&color=0081CB'/>
+  <img src='https://img.shields.io/badge/Linux-informational?style=flat&logo=Linux&logoColor=white&color=07405E'/>
+  <img src='https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=CC2927'/>
+</p>
 
 ### (Page in development...)
