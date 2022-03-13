@@ -26,11 +26,18 @@ IT-specialist from Russia 🇷🇺
 </p>
 
 **Bots and Scripts Direction**
-+ Telegram API: <img src='https://img.shields.io/badge/Pyrogram-informational?style=flat&logoColor=white&color=00C7B7'/> <img src='https://img.shields.io/badge/Telethon-informational?style=flat&logoColor=white&color=239120'/> <img src='https://img.shields.io/badge/Aiogram-informational?style=flat&logoColor=white&color=F7DF1E'/> <img src='https://img.shields.io/badge/Telebot-informational?style=flat&logoColor=white&color=CC6699'/>
-+ GUI and CLI: <img src='https://img.shields.io/badge/PyQt5-informational?style=flat&logoColor=white&color=FA7343'/> <img src='https://img.shields.io/badge/Rich-informational?style=flat&logoColor=white&color=DC322F'/> <img src='https://img.shields.io/badge/PySimpleGUI-informational?style=flat&logoColor=white&color=2C2D72'/>
-+ Data scraping: <img src='https://img.shields.io/badge/Bs4-informational?style=flat&logoColor=white&color=F6C915'/> <img src='https://img.shields.io/badge/Selenium-informational?style=flat&logoColor=white&color=0000CC'/> <img src='https://img.shields.io/badge/Scrapy-informational?style=flat&logoColor=white&color=1ED760'/>
-+ Code models: <img src='https://img.shields.io/badge/Asyncio-informational?style=flat&logoColor=white&color=FEAA2D'/> <img src='https://img.shields.io/badge/Multiprocessing-informational?style=flat&logoColor=white&color=217346'/>
-+ Other API: <img src='https://img.shields.io/badge/Instagram-informational?style=flat&logoColor=white&color=404D59'/> <img src='https://img.shields.io/badge/HH.ru-informational?style=flat&logoColor=white&color=39457E'/> <img src='https://img.shields.io/badge/Discord-informational?style=flat&logoColor=white&color=276DC3'/> <img src='https://img.shields.io/badge/Whatsapp-informational?style=flat&logoColor=white&color=232F3E'/>
++ **Telegram API:** <img src='https://img.shields.io/badge/Pyrogram-informational?style=flat&logoColor=white&color=00C7B7'/> <img src='https://img.shields.io/badge/Telethon-informational?style=flat&logoColor=white&color=239120'/> <img src='https://img.shields.io/badge/Aiogram-informational?style=flat&logoColor=white&color=F7DF1E'/> <img src='https://img.shields.io/badge/Telebot-informational?style=flat&logoColor=white&color=CC6699'/>
++ **GUI and CLI:** <img src='https://img.shields.io/badge/PyQt5-informational?style=flat&logoColor=white&color=FA7343'/> <img src='https://img.shields.io/badge/Rich-informational?style=flat&logoColor=white&color=DC322F'/> <img src='https://img.shields.io/badge/PySimpleGUI-informational?style=flat&logoColor=white&color=2C2D72'/>
++ **Data scraping:** <img src='https://img.shields.io/badge/Bs4-informational?style=flat&logoColor=white&color=F6C915'/> <img src='https://img.shields.io/badge/Selenium-informational?style=flat&logoColor=white&color=0000CC'/> <img src='https://img.shields.io/badge/Scrapy-informational?style=flat&logoColor=white&color=1ED760'/>
++ **Code models:** <img src='https://img.shields.io/badge/Asyncio-informational?style=flat&logoColor=white&color=FEAA2D'/> <img src='https://img.shields.io/badge/Multiprocessing-informational?style=flat&logoColor=white&color=217346'/>
++ **Other API:** <img src='https://img.shields.io/badge/Instagram-informational?style=flat&logoColor=white&color=404D59'/> <img src='https://img.shields.io/badge/HH.ru-informational?style=flat&logoColor=white&color=39457E'/> <img src='https://img.shields.io/badge/Discord-informational?style=flat&logoColor=white&color=276DC3'/> <img src='https://img.shields.io/badge/Whatsapp-informational?style=flat&logoColor=white&color=232F3E'/>
+
+**Frontend Direction**
+<p align="center">
+  <img src='https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=B4F8C8'/>
+  <img src='https://img.shields.io/badge/CSS-informational?style=flat&logo=CSS3&logoColor=white&color=050A30'/>
+  <img src='https://img.shields.io/badge/HTML-informational?style=flat&logo=HTML5&logoColor=white&color=0000FF'/>
+</p>
 
 **Other technologies**
 <p align="center">
@@ -38,5 +45,7 @@ IT-specialist from Russia 🇷🇺
   <img src='https://img.shields.io/badge/Linux-informational?style=flat&logo=Linux&logoColor=white&color=07405E'/>
   <img src='https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=CC2927'/>
 </p>
+
+<h3>Professional activity</h3>
 
 ### (Page in development...)
